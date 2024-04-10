@@ -1,9 +1,9 @@
 {
-    "webringInfo": [
+    "misc-webring v2": [
         {
-            "webringName": "Example Ring",
-            "webringHome": "https://example.com/",
-            "webringMemberList": "https://example.com/home#list"
+            "webringName": "the misc webring 2",
+            "webringHome": "https://iceconey14.github.io/misc-webring2/",
+            "webringMemberList": "https://iceconey14.github.io/misc-webring2/member-list.html"
         }
     ]
 }
