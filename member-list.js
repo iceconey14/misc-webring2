@@ -21,7 +21,7 @@ function webring(data) {
 
     tag.insertAdjacentHTML('beforebegin', `
     <div id="webringInfo">
-    <a id="webringName" target="_blank" href='${data.webringInfo[0].webringURL}'>${data.webringInfo[0].webringName}</a>
+    <a id="webringName" target="_blank" href='index.html'>${data.webringInfo[0].webringName}</a>
     <a id="webringMemberList target="_blank" href='${data.webringInfo[0].webringMemberList}'>Member list</a>
     </div>
     `);
