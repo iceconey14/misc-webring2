@@ -8,6 +8,15 @@
             "siteShortDescription": "a webring for any genre",
             "siteLongDescription": "a webring for anyone but your site should be family-friendly (there are kids, and adults at work)"
         }
+        {
+            "siteOwner": "lime360",
+            "siteName": "lime360's site",
+            "siteURL": "https://lime360.nekoweb.org/",
+            "siteTags": "none",
+            "siteShortDescription": "none",
+            "siteLongDescription": "none"
+        }
+
 
         
     ]
