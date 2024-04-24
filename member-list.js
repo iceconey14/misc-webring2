@@ -22,7 +22,6 @@ function webring(data) {
     tag.insertAdjacentHTML('beforebegin', `
     <div id="webringInfo">
     <a id="webringName" target="_blank" href='index.html'>${data.webringInfo[0].webringName}</a>
-    <a id="webringMemberList target="_blank" href='${data.webringInfo[0].webringMemberList}'>Member list</a>
     </div>
     `);
 }
@@ -33,20 +32,17 @@ function sites(data) {
   let i;
 
   tag.insertAdjacentHTML('afterbegin', `
-  <h2 id="memberCount">Member Count: ${data.webringSites.length}</h2>
+  <p id="memberCount">there is x${data.webringSites.length} members in the ~misc-ring~</p>
   `);
 
 for (i = 0; i < data.webringSites.length; i++) {
     list += `
     <div class="webringMember">
-    <ol>
+    <ul>
     <li id="siteOwner">${data.webringSites[i].siteOwner}</li>
     <li id="siteName"><a target="_blank" href='${data.webringSites[i].siteURL}'>${data.webringSites[i].siteName.replace(regex, "")}</a></li>
     <li id="siteURL"><a target="_blank" href='${data.webringSites[i].siteURL}'>${data.webringSites[i].siteURL.replace(regex, "")}</a></li>
-    <li id="siteTags">${data.webringSites[i].siteTags}</li>
-    <li id="siteShortDescription">${data.webringSites[i].siteShortDescription}</li>
-    <li id="siteLongDescription">${data.webringSites[i].siteLongDescription}</li>
-    </ol>
+    </ul>
     </div>
     `;
 }
