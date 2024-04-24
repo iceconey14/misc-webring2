@@ -32,7 +32,7 @@ function sites(data) {
   let i;
 
   tag.insertAdjacentHTML('afterbegin', `
-  <p id="memberCount">there is x${data.webringSites.length} members in the ~misc-ring~</p>
+  <p id="memberCount">there is <b>x${data.webringSites.length}</b> members in the ~misc-ring~</p>
   `);
 
 for (i = 0; i < data.webringSites.length; i++) {
