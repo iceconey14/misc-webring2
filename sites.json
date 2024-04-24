@@ -12,10 +12,19 @@
             "siteOwner": "lime360",
             "siteName": "lime360's site",
             "siteURL": "https://lime360.nekoweb.org/",
-            "siteTags": "none",
-            "siteShortDescription": "none",
+            "siteTags": "misc",
+            "siteShortDescription": "anything",
             "siteLongDescription": "none"
+        },
+        {
+            "siteOwner": "Epicly",
+            "siteName": "Epic1's Kewl Site",
+            "siteURL": "https://epic1.neocities.org/",
+            "siteTags": "epic",
+            "siteShortDescription": "a epic site",
+            "siteLongDescription": "a super epic site that has a lot of epic things is very kelw yes"
         }
+
 
 
         
