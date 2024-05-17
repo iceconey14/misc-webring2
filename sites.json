@@ -23,7 +23,15 @@
             "siteTags": "epic",
             "siteShortDescription": "a epic site",
             "siteLongDescription": "a super epic site that has a lot of epic things is very kelw yes"
-        }
+        },
+     {
+            "siteOwner": "Ray",
+            "siteName": "Ray's Miscellany",
+            "siteURL": "https://www.brisray.com/utils/webrings.htm",
+            "siteTags": "miscellany, webring",
+            "siteShortDescription": "a misc website",
+            "siteLongDescription": "i cant come up with one long desc"
+        }    
 
 
 
