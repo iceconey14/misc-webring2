@@ -31,9 +31,16 @@
             "siteTags": "miscellany, webring",
             "siteShortDescription": "a misc website",
             "siteLongDescription": "i cant come up with one long desc"
-        }    
+        },
 
-
+ {
+            "siteOwner": "joe",
+            "siteName": "bulltown.2022",
+            "siteURL": "https://bulltown.2022.joejenett.com/",
+            "siteTags": "blog, webrings, webgarden",
+            "siteShortDescription": "a remix of words and images",
+            "siteLongDescription": "a remix of words and images circa 1997-2004"
+        }
 
         
     ]
