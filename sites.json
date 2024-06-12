@@ -48,8 +48,14 @@
             "siteTags": "webrings, fanlistings, journal",
             "siteShortDescription": "nope",
             "siteLongDescription": "nope nope nope nope"
-        }
-
-        
+        },
+         {
+            "siteOwner": "Moss",
+            "siteName": "moss's website",
+            "siteURL": "https://treefungusxx.neocities.org/",
+            "siteTags": "trans, art",
+            "siteShortDescription": "nope",
+            "siteLongDescription": "nope nope nope nope"
+        }        
     ]
 }
