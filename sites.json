@@ -36,7 +36,7 @@
  {
             "siteOwner": "joe",
             "siteName": "bulltown.2022",
-            "siteURL": "https://bulltown.2022.joejenett.com/",
+            "siteURL": "http://bulltown.2022.joejenett.com/",
             "siteTags": "blog, webrings, webgarden",
             "siteShortDescription": "a remix of words and images",
             "siteLongDescription": "a remix of words and images circa 1997-2004"
@@ -56,6 +56,14 @@
             "siteTags": "trans, art",
             "siteShortDescription": "nope",
             "siteLongDescription": "nope nope nope nope"
-        }        
+        },     
+        {
+            "siteOwner": "mormoroi",
+            "siteName": "mormoroi's home",
+            "siteURL": "https://mormoroi.com/",
+            "siteTags": "personal, art",
+            "siteShortDescription": "nope",
+            "siteLongDescription": "nope nope nope nope"
+        } 
     ]
 }
