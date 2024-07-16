@@ -64,6 +64,22 @@
             "siteTags": "personal, art",
             "siteShortDescription": "nope",
             "siteLongDescription": "nope nope nope nope"
-        } 
+        },
+                {
+            "siteOwner": "lule",
+            "siteName": "lules-oddities",
+            "siteURL": "https://lules-oddities.vercel.app/main.html",
+            "siteTags": "personal, 90s",
+            "siteShortDescription": "im tired",
+            "siteLongDescription": "im tired of writing descriptions"
+        },
+         {
+            "siteOwner": "mitzi",
+            "siteName": "spycicl",
+            "siteURL": "https://spycicl.neocities.org/",
+            "siteTags": "personal, whatever",
+            "siteShortDescription": "im tired",
+            "siteLongDescription": "im tired of writing descriptions"
+        }
     ]
 }
