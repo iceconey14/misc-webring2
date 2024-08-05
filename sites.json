@@ -80,6 +80,14 @@
             "siteTags": "personal, whatever",
             "siteShortDescription": "im tired",
             "siteLongDescription": "im tired of writing descriptions"
+        },
+         {
+            "siteOwner": "kasper",
+            "siteName": "KASPERSPACE",
+            "siteURL": "https://kasperspace.nekoweb.org/",
+            "siteTags": "whatever",
+            "siteShortDescription": "im tired",
+            "siteLongDescription": "im tired of writing descriptions"
         }
     ]
 }
