@@ -88,6 +88,30 @@
             "siteTags": "whatever",
             "siteShortDescription": "im tired",
             "siteLongDescription": "im tired of writing descriptions"
+        },
+         {
+            "siteOwner": "acidicAlchemist",
+            "siteName": "acidicAlchemist",
+            "siteURL": "https://acidicalchemist.neocities.org",
+            "siteTags": "whatever",
+            "siteShortDescription": "why",
+            "siteLongDescription": "nuh uh"
+        },
+        {
+            "siteOwner": "KB",
+            "siteName": "KBs Lair",
+            "siteURL": "https://kbs-lucas.neocities.org/",
+            "siteTags": "whatever",
+            "siteShortDescription": "why",
+            "siteLongDescription": "nuh uh"
+        },
+    {
+            "siteOwner": "rockseize",
+            "siteName": "rockseize",
+            "siteURL": "https://rockseize.neocities.org/",
+            "siteTags": "whatever",
+            "siteShortDescription": "why",
+            "siteLongDescription": "nuh uh"
         }
     ]
 }
