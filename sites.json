@@ -112,6 +112,39 @@
             "siteTags": "whatever",
             "siteShortDescription": "why",
             "siteLongDescription": "nuh uh"
+        },
+    {
+            "siteOwner": "Dyzen",
+            "siteName": "Dyzen's Digital Space",
+            "siteURL": "https://dynazenta.neocities.org/",
+            "siteTags": "whatever",
+            "siteShortDescription": "why",
+            "siteLongDescription": "nuh uh"
+        },
+    {
+            "siteOwner": "webmaster?",
+            "siteName": "The Lawrence Dane Fansite",
+            "siteURL": "https://www.lawrencedane.com",
+            "siteTags": "whatever",
+            "siteShortDescription": "why",
+            "siteLongDescription": "nuh uh"
+        },
+    {
+            "siteOwner": "nat",
+            "siteName": "Natural Stupidity",
+            "siteURL": "https://natural-stupidity.neocities.org/",
+            "siteTags": "whatever",
+            "siteShortDescription": "why",
+            "siteLongDescription": "nuh uh"
+        },
+    {
+            "siteOwner": "Buster Biggins",
+            "siteName": "Buster Biggins' Homepage",
+            "siteURL": "https://buster.nekoweb.org/",
+            "siteTags": "whatever",
+            "siteShortDescription": "why",
+            "siteLongDescription": "nuh uh"
         }
+        
     ]
 }
