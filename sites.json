@@ -168,7 +168,30 @@
             "siteTags": "whatever",
             "siteShortDescription": "why",
             "siteLongDescription": "nuh uh"
+        },
+    {
+            "siteOwner": "gorekytti",
+            "siteName": "gorekytti",
+            "siteURL": "https://gorekytti.neocities.org/",
+            "siteTags": "whatever",
+            "siteShortDescription": "why",
+            "siteLongDescription": "nuh uh"
+        },
+    {
+            "siteOwner": "Felix",
+            "siteName": "Felix online",
+            "siteURL": "https://gorekytti.neocities.org/",
+            "siteTags": "whatever",
+            "siteShortDescription": "why",
+            "siteLongDescription": "nuh uh"
+        },
+    {
+            "siteOwner": "pilledtexts.com",
+            "siteName": "pilledtexts.com",
+            "siteURL": "https://pilledtexts.com",
+            "siteTags": "whatever",
+            "siteShortDescription": "why",
+            "siteLongDescription": "nuh uh"
         }
-        
     ]
 }
