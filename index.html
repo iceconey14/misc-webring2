@@ -22,7 +22,28 @@
  <div id="join">
   <h2>joining</h2>
 <p>if your site follows the rules, then fill out this form.</p>
-  <form name="contact" netlify>
+<p>UPDATE: i noticed that my form was broken, i am going to use formspree until then.</p>  
+  <form action="https://formspree.io/f/xyzewele" method="POST">
+  <label>email: <input type="email" name="email" required>
+  </label>
+  <br>
+    <label>
+    name/nickname: <textarea name="name" required></textarea>
+  </label>
+  <!-- your other form fields go here -->
+  <br>
+    <label>
+   website url: <textarea name="url" required></textarea>
+  </label>
+    <br>
+    <label>
+   website url: <textarea name="webname" required></textarea>
+  </label>
+    <br>
+    <button type="submit">submit</button>
+</form>
+   <!--
+   <form name="contact" netlify>
     <p>
     <label>Website Name: <input type="text" name="website name" required></label>
   </p>
@@ -39,7 +60,7 @@
     <button type="submit">Send!</button>
   </p>
 </form>
- </div>
+ </div> -->
 <!--i aint waitin any longa 
   <iframe width="180" height="180" style="border:none" src="https://evehibi.nekoweb.org/ringlink/" name="ringlink"></iframe> -->
 </body>
