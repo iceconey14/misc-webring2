@@ -185,6 +185,14 @@
             "siteTags": "whatever",
             "siteShortDescription": "why",
             "siteLongDescription": "nuh uh"
+        },
+    {
+            "siteOwner": "Rishikesh",
+            "siteName": "Rishikesh Sreehari",
+            "siteURL": "https://rishikeshs.com/",
+            "siteTags": "whatever",
+            "siteShortDescription": "why",
+            "siteLongDescription": "nuh uh"
         }
     ]
 }
