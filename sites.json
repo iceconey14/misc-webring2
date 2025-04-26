@@ -193,6 +193,22 @@
             "siteTags": "whatever",
             "siteShortDescription": "why",
             "siteLongDescription": "nuh uh"
+        },
+    {
+            "siteOwner": "moftasa",
+            "siteName": "Moftasa's blog since 2005.",
+            "siteURL": "https://moftasa.net/",
+            "siteTags": "whatever",
+            "siteShortDescription": "why",
+            "siteLongDescription": "nuh uh"
+        },
+    {
+            "siteOwner": "ReloopGD",
+            "siteName": "ReloopGD WebWorld!!1!",
+            "siteURL": "https://reloopgd.nekoweb.org/",
+            "siteTags": "whatever",
+            "siteShortDescription": "why",
+            "siteLongDescription": "nuh uh"
         }
     ]
 }
