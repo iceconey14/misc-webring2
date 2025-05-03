@@ -209,6 +209,14 @@
             "siteTags": "whatever",
             "siteShortDescription": "why",
             "siteLongDescription": "nuh uh"
+        },
+    {
+            "siteOwner": "Mats",
+            "siteName": "El Cybre $pace",
+            "siteURL": "https://dyremyhr.no/",
+            "siteTags": "whatever",
+            "siteShortDescription": "why",
+            "siteLongDescription": "nuh uh"
         }
     ]
 }
