@@ -217,6 +217,14 @@
             "siteTags": "whatever",
             "siteShortDescription": "why",
             "siteLongDescription": "nuh uh"
+        },
+    {
+            "siteOwner": "Mey",
+            "siteName": "Dreamscapes",
+            "siteURL": "https://meyr0s3.neocities.org/",
+            "siteTags": "whatever",
+            "siteShortDescription": "why",
+            "siteLongDescription": "nuh uh"
         }
     ]
 }
